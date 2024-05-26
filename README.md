@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @Ameeth161
+- 👀 I’m interested in Programming and MERN Stack.
+- 💞️ I’m looking to collaborate on MERN Projects.
+- 📫 You can reach me using ameeth830@gmail.com
+- 😄 Pronouns: Amith with ee
+- ⚡ Fun fact: I am a sports enthusiast.
